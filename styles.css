@@ -15,7 +15,7 @@ body {
 }
 
 .avatar:hover, .avatar:focus {
-    box-shadow: 2px 2px #f0c808;
+    box-shadow: 3px 3px #a30e22;
 }
 
 .card {
