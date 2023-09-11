@@ -37,7 +37,7 @@ body {
      */
 }
 
-@keyframes card-back {
+/* @keyframes card-back {
     from {background: #f0c808;}
     to {background: #000125;}
 }
@@ -45,7 +45,7 @@ body {
 .card:hover, .card:focus {
     animation-name: card-back;
     animation-duration: 2s;
-}
+} */
 
 .border-blue {
     border: 1px dotted blue;
